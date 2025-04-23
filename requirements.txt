@@ -1,0 +1,10 @@
+streamlit_extras
+pycaret
+streamlit
+Jinja2
+numpy
+pandas
+ydata-profiling
+openai==0.28
+shap
+
