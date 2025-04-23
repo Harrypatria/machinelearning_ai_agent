@@ -39,6 +39,31 @@ Sleek, interactive UI made with Streamlit. Upload, explore, train, download — 
 ---
 
 
+## 🛠 How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Harrypatria/machinelearning_ai_agent
+   cd machinelearning_ai_agent
+   ```
+
+2. **Create a virtual environment**
+   ```bash
+   conda create -n automl python=3.9 -y
+   conda activate automl
+   ```
+
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Launch the application**
+   ```bash
+   streamlit run app.py
+   ```
+
+
 <div align="center">
 
 
