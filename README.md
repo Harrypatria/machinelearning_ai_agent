@@ -1,9 +1,6 @@
 # Automated-Machine-Learning-App
 The Automated ML WebApp project is a tool developed using Python, Pandas Profiling, PyCaret, and Streamlit frameworks. It aims to simplify and streamline the process of building machine learning models by automating various tasks involved in data preprocessing, feature engineering, model selection, and downloading the trained models.
 
-# Website
-![](https://github.com/praj2408/Automated-Machine-Learning-App/blob/main/docs/bandicam%202023-06-23%2016-47-03-898%20(1).gif)
-
 ## Frameworks Used:
 ### [Python](https://www.python.org/)
 The core of the web application is built using Python, a versatile programming language widely used in the field of data science and machine learning. Python provides a rich ecosystem of libraries and frameworks that make it an ideal choice for building such applications.
