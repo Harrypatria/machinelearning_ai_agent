@@ -63,6 +63,14 @@ Sleek, interactive UI made with Streamlit. Upload, explore, train, download — 
    streamlit run app.py
    ```
 
+### Live video demo 
+https://youtube.com/live/UsS-nQxUhr0
+
+### Our masterclass info
+https://sites.google.com/view/agenticai/home
+
+### Modules
+https://sites.google.com/view/agenticai/modules
 
 <div align="center">
 
@@ -77,7 +85,9 @@ Click the buttons above to show your support!
 </div>
 
 
-1. **Clone this repo**
+**Clone this repo**
    ```bash
    git clone https://github.com/Harrypatria/machinelearning_ai_agent.git
    cd Automated-Machine-Learning-App
+
+
