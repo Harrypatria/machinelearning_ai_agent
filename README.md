@@ -1,4 +1,4 @@
-# 🚀 AutoML WebApp — Your AI Modelling Sidekick
+# 🚀 AutoML WebApp: Your AI Modelling Sidekick
 
 **No more endless lines of code. No more analysis paralysis.**  
 Welcome to **AutoML WebApp** — the one-stop, interactive app that lets you explore, model, and export machine learning solutions in minutes. Whether you're a beginner exploring datasets or a pro looking to save time, this tool’s got your back.
