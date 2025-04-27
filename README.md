@@ -10,6 +10,14 @@ Built with the magic combo of **Python**, **YData-Profiling**, **PyCaret**, and 
 ✅ Tune hyperparameters  
 ✅ Export your trained model — ready for deployment
 
+# Project Title
+
+[![Watch the video](https://img.youtube.com/vi/bQLLBNzaSO8/maxresdefault.jpg)](https://www.youtube.com/watch?v=bQLLBNzaSO8)
+
+Klik gambar di atas untuk menonton video di YouTube.
+
+
+
 ---
 
 ## ⚙️ What’s Under the Hood?
