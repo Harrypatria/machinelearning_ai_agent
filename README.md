@@ -42,8 +42,12 @@ Sleek, interactive UI made with Streamlit. Upload, explore, train, download — 
 
 ---
 
-
 ## 🛠 How to Run Locally
+
+**Clone this repo**
+   ```bash
+   git clone https://github.com/Harrypatria/machinelearning_ai_agent.git
+   cd Automated-Machine-Learning-App
 
 1. **Clone the repository**
    ```bash
@@ -87,11 +91,3 @@ https://sites.google.com/view/agenticai/modules
 Click the buttons above to show your support!
 
 </div>
-
-
-**Clone this repo**
-   ```bash
-   git clone https://github.com/Harrypatria/machinelearning_ai_agent.git
-   cd Automated-Machine-Learning-App
-
-
