@@ -53,7 +53,7 @@ Sleek, interactive UI made with Streamlit. Upload, explore, train, download — 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Harrypatria/machinelearning_ai_agent
-   cd machinelearning_ai_agent
+   cd your directory
    ```
 
 2. **Create a virtual environment**
