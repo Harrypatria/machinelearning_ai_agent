@@ -48,6 +48,7 @@ Sleek, interactive UI made with Streamlit. Upload, explore, train, download — 
    ```bash
    git clone https://github.com/Harrypatria/machinelearning_ai_agent.git
    cd Automated-Machine-Learning-App
+   ```
 
 1. **Clone the repository**
    ```bash
